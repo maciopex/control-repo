@@ -16,5 +16,5 @@ forge 'https://forge.puppet.com'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 
-mod 'arjun/java'
+mod 'arjun/java',
   :git => 'https://github.com/maciopex/java.git',
